@@ -1,16 +1,16 @@
-[API de Monitoramento Oceânico]
+# API de Monitoramento Oceânico
 A API de Monitoramento Oceânico é um sistema desenvolvido para monitorar e relatar eventos e dados relacionados aos oceanos. Ele fornece endpoints para gerenciar alertas, relatórios, biodiversidade e dados oceanográficos.
 
-[Funcionalidades Principais]
-# Alertas
+# Funcionalidades Principais
+1. Alertas
 -Criação, leitura, atualização e exclusão de alertas.
 -Consulta de alertas com filtros por tipo, mensagem, data/hora e localização.
 
-# Relatórios
+2. Relatórios
 Criação, leitura, atualização e exclusão de relatórios.
 Associação de alertas aos relatórios.
 
-# Biodiversidade
+3. Biodiversidade
 Criação, leitura, atualização e exclusão de registros de biodiversidade.
 Associação de alertas aos registros de biodiversidade.
 
