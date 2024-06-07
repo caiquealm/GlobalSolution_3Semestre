@@ -56,7 +56,7 @@ A API de Monitoramento Oceânico é um sistema desenvolvido para monitorar e rel
 - Oracle Database
 - Maven
 ## Diagrama
-(documentacao/GS_OCEANHEALTHMONITORING.png)
+[Diagrama de Classes](https://github.com/caiquealm/GlobalSolution_3Semestre/blob/main/documentacao/GS_OCEANHEALTHMONITORING.png))
 
 ## Grupo
 - Caique Almeida Dias : RM99778
