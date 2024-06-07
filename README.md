@@ -60,6 +60,7 @@ A API de Monitoramento Oceânico é um sistema desenvolvido para monitorar e rel
 
 ## Grupo
 - Caique Almeida Dias : RM99778
-
-Para mais detalhes sobre como usar cada endpoint, consulte a [documentação completa da API](link_para_documentacao).
-
+- Vinicius Rebollo Minei: RM98486
+- Sofia Sprocatti : RM99208
+- Ana Carolina Tavares	RM: 552283
+- Gabriel Lopes Pereira RM: 98023
